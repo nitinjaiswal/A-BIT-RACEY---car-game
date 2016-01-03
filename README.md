@@ -1,2 +1,2 @@
-# A-BIT-RACEY---car-gane
-Its a simple car racing game.
+# A-BIT-RACEY---car-game
+Its a simple car racing game
